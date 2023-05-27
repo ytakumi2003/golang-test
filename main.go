@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-    msg := "hello world"
+    msg := "hello world !"
     log.Println(msg)
 }
